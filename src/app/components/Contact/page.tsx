@@ -1,7 +1,5 @@
 "use client";
-import Link from "next/link";
-import { IoLogoWhatsapp } from "react-icons/io";
-import { MdEmail } from "react-icons/md";
+
 import { useRef, useState } from "react";
 import emailjs from "emailjs-com";
 

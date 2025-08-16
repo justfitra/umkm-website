@@ -1,5 +1,5 @@
 import menu from "@/data/menu";
-import Card from "../Card/page";
+import Card from "../Card/Card";
 
 const Menu = () => {
   return (
